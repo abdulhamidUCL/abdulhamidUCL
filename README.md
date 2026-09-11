@@ -137,20 +137,6 @@ My current goal is simple:
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhamidUCL&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdulhamidUCL/abdulhamidUCL/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
 ---
 
 ## 🎯 2026 Goals
