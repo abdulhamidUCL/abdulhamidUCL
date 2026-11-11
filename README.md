@@ -114,11 +114,11 @@ My current goal is simple:
 * [x] Data cleaning & EDA
 * [x] Probability & descriptive statistics
 * [x] Sampling & sampling distributions
-* [ ] Linear algebra
-* [ ] Machine learning fundamentals
-* [ ] Supervised learning
-* [ ] Unsupervised learning
-* [ ] Model evaluation & optimization
+* [x] Linear algebra
+* [x] Machine learning fundamentals
+* [x] Supervised learning
+* [x] Unsupervised learning
+* [x] Model evaluation & optimization
 * [ ] Deep learning
 * [ ] ML deployment
 
